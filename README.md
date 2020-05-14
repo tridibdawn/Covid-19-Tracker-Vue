@@ -1,4 +1,14 @@
-# covid-app
+# Covid-19 Tracker Vue
+
+ <image src="./src/assets/screenshot.png" alt="screenshot">
+
+# Demo
+
+
+<video width="400" controls>
+  <source src="./src/assets/video-demo.webm" type="video/webm">
+  Your browser does not support HTML video.
+</video>
 
 ## Project setup
 ```
